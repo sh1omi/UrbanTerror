@@ -1,0 +1,772 @@
+[
+  {
+    "name":"ninja",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='ninja.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"bartsbk",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsbk.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"bartsgn",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsgn.jpg' />",
+    "char":"Sarah, Misu, Adala, Carla"
+  },
+  {
+    "name":"capbk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capbk.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"bartsor",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsor.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"bartspk",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartspk.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"bartsrd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsrd.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"capgn",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capgn.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"capor",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capor.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"caprd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='caprd.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"cears",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='cears.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"diablo",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='diablo.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"eyepatch1",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='eyepatch1.jpg' />",
+    "char":"Sarah, Adala"
+  },
+  {
+    "name":"patch",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='patch.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"phat",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='phat.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"pimpbk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='pimpbk.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"pimpgn",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='pimpgn.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"pimpor",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='pimpor.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"pimppk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='pimppk.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"pimprd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='pimprd.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"piratehat",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='piratehat.jpg' />",
+    "char":"Sarah, Rafiq, Adala, Tom"
+  },
+  {
+    "name":"ponybk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponybk.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"ponygn",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponygn.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"ponyor",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponyor.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"ponypk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponypk.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"ponyrd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponyrd.jpg' />",
+    "char":"Sarah, Misu"
+  },
+  {
+    "name":"shades",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='shades.jpg' />",
+    "char":"Sarah, Misu, Adala, Carla"
+  },
+  {
+    "name":"touqbk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='touqbk.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"touqgn",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='touqgn.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"touqrd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='touqrd.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"viking",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='viking.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"arab",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='arab.jpg' />",
+    "char":"Misu"
+  },
+  {
+    "name":"black",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='black.jpg' />",
+    "char":"Misu"
+  },
+  {
+    "name":"cigar",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='cigar.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"foo",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='foo.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"fringe",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='fringe.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"goateebk",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='goateebk.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"goateerd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='goateerd.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"goggles",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='goggles.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"hndlebk",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='hndlebk.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"hndlerd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='hndlerd.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"jason",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='jason.jpg' />",
+    "char":"Rafiq"
+  },
+  {
+    "name":"mohwkbk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='mohwkbk.jpg' />",
+    "char":"Rafiq, Denzel, Takeshi"
+  },
+  {
+    "name":"mohwkor",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='mohwkor.jpg' />",
+    "char":"Rafiq, Denzel"
+  },
+  {
+    "name":"mustbk",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='mustbk.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"mustrd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='mustrd.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"pbeardgn",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='pbeardgn.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"pbeardrd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='pbeardrd.jpg' />",
+    "char":"Rafiq, Denzel"
+  },
+  {
+    "name":"pbeardwt",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='pbeardwt.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"pbeardyw",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='pbeardyw.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"pbeard",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='pbeard.jpg' />",
+    "char":"Rafiq, Denzel, Takeshi"
+  },
+  {
+    "name":"spikeybk",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='spikeybk.jpg' />",
+    "char":"Rafiq, Denzel, Takeshi"
+  },
+  {
+    "name":"spikeyor",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='spikeyor.jpg' />",
+    "char":"Rafiq, Denzel"
+  },
+  {
+    "name":"thinbk",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='thinbk.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"thinrd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='thinrd.jpg' />",
+    "char":"Rafiq, Denzel, Tom, Takeshi"
+  },
+  {
+    "name":"white",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='white.jpg' />",
+    "char":"Rafiq, Denzel"
+  },
+  {
+    "name":"bartsbl",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsbl.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"asian",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='asian.jpg' />",
+    "char":"Carla"
+  },
+  {
+    "name":"bartsgd",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsgd.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"bartsny",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartsny.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"bartspp",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='bartspp.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"blonde",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='blonde.jpg' />",
+    "char":"Adala"
+  },
+  {
+    "name":"capbl",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capbl.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"capdg",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capdg.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"capwt",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capwt.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"capyw",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='capyw.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"gasmask",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='gasmask.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"ponybl",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponybl.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"ponydg",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponydg.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"ponygd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponygd.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"ponyny",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponyny.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"ponypp",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='ponypp.jpg' />",
+    "char":"Adala, Carla"
+  },
+  {
+    "name":"touqbl",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='touqbl.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"touqdg",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='touqdg.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"touqwt",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='touqwt.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"mohwkpp",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='mohwkpp.jpg' />",
+    "char":"Tom"
+  },
+  {
+    "name":"mohwkrd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='mohwkrd.jpg' />",
+    "char":"Tom"
+  },
+  {
+    "name":"pbeardbl",
+    "helmet":"Yes",
+    "map":"0",
+    "image":"<img src='pbeardbl.jpg' />",
+    "char":"Tom, Takeshi"
+  },
+  {
+    "name":"spikeypp",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='spikeypp.jpg' />",
+    "char":"Tom"
+  },
+  {
+    "name":"spikeyrd",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='spikeyrd.jpg' />",
+    "char":"Tom, Takeshi"
+  },
+  {
+    "name":"mohwkbl",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='mohwkbl.jpg' />",
+    "char":"Takeshi"
+  },
+  {
+    "name":"spikeybl",
+    "helmet":"No",
+    "map":"0",
+    "image":"<img src='spikeybl.jpg' />",
+    "char":"Takeshi"
+  },
+  {
+    "name":"animal",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='animal-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"batman",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='batman.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"beast",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='beast-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"beavis",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='beavis-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"goku",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='goku-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"goku2",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='goku2.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"goldorak",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='goldorak-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"bravo",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='bravo-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"h_head",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='homer-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"deadeye",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='deadeye-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"joker",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='joker-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"krusty",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='krusty-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"lobo",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='lobo-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"mario",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='mario-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"robocop",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='robo-blue.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"sonic",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='sonic-blue.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"stan",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='stan-blue.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"turtle",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='turtle-blue.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"vash",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='vash-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel"
+  },
+  {
+    "name":"vegeta",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='vegeta-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"xanatos",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='xanatos-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"xenomorph",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='xenomorph-blue.jpg' />",
+    "char":"Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"xm",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='xm-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"zero",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='zero-red.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"lara",
+    "helmet":"No",
+    "map":"1",
+    "image":"<img src='lara-red.jpg' />",
+    "char":"Misu"
+  },
+  {
+    "name":"pleco",
+    "helmet":"Yes",
+    "map":"2",
+    "image":"<img src='pleco.jpg'/>",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"lcdlc",
+    "helmet":"Yes",
+    "map":"2",
+    "image":"<img src='lcdlc.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  },
+  {
+    "name":"hat",
+    "helmet":"Yes",
+    "map":"2",
+    "image":"<img src='hat.jpg' />",
+    "char":"Sarah, Misu, Rafiq, Denzel, Adala, Carla, Tom, Takeshi"
+  }
+]
