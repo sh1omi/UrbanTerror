@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UrbanTerror - Funstuff</title>
+    <link rel="shortcut icon" type="image/png" href="../favicon.png">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap-table.min.css">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <style>
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+        body {
+            background-color: #181818;
+            text-align: center
+        }
+        .card{
+            width: 256px;
+            border:0
+        }
+        .card-img-top {
+            width: 256px;
+            height: 256px;
+            display:block;
+            border-top-left-radius: .25rem;
+            border-top-right-radius: .25rem;
+        }
+        .card a{
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+    </style>
+</head>
+<body><br>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <a href="../" class="btn btn-primary btn-lg btn-block menu">Main page &raquo;</a>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="card">
+                <img class="card-img-top" src="../thumbnail/360.jpg" alt="360 Maps thumbnail">
+                <a href="../360" class="btn btn-primary btn-lg btn-block">360 Map images &raquo;</a>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="card">
+                <img class="card-img-top" src="../thumbnail/maps.jpg" alt="Maps thumbnail">
+                <a href="#" class="btn btn-primary btn-lg btn-block">Map images &raquo;</a>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="card">
+                <img class="card-img-top" src="../thumbnail/funstuff.jpg" alt="Funstuff thumbnail">
+                <a href="../funstuff" class="btn btn-primary btn-lg btn-block">Funstuff images &raquo;</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <table data-toggle="table" id="table-pagination" data-show-refresh="true" data-show-columns="true" data-url="maps.json" data-height="600" data-pagination="true" data-search="true">
+            <thead>
+            <tr>
+                <th data-field="image" data-align="left" data-sortable="false">Image</th>
+                <th data-field="name" data-align="left" data-sortable="true">Name</th>
+                <th data-field="char" data-align="left" data-sortable="true">Characters</th>
+                <th data-field="helmet" data-align="left" data-sortable="true">With Helmet</th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <br>
+</div>
+<script src="../js/jquery-2.2.1.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/bootstrap-table.min.js"></script>
+<script>
+    alert("This page is not ready yet.");
+</script>
+</body>
+</html>
